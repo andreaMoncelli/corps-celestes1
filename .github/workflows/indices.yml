@@ -26,4 +26,4 @@ jobs:
 
     - name: Generate indices.zip
       run: |
-        zip -r indices.zip planetes
+        zip -r indices.zip planetes/*
